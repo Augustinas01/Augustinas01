@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on DriftScore and MiniRegitraHomework
-- 🌱 I’m currently learning Java | JavaScript | C#
+- 🔭 I’m currently working on learning
+- 🌱 I’m currently learning Java | JavaScript | C# | Angular
 - ⚡ I'm currently student at CodeAcademy
 - 📫 How to reach me: Augustinas01@gmail.com
 
