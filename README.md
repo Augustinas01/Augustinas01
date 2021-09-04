@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on learning
-- 🌱 I’m currently learning Java | JavaScript | C# | Angular
+- 🌱 I’m currently learning Java | JavaScript | C# | Angular | HTML | MySQL
 - ⚡ I'm currently student at CodeAcademy
 - 📫 How to reach me: Augustinas01@gmail.com
 
